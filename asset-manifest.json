@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.46c89eb1.css",
-    "main.js": "/static/js/main.e5842e76.js",
+    "main.css": "/static/css/main.8be18fbe.css",
+    "main.js": "/static/js/main.50443eda.js",
     "static/media/fabrizio-magoni-boaDpmC-_Xo-unsplash.jpg": "/static/media/fabrizio-magoni-boaDpmC-_Xo-unsplash.1e04b7b17ad73118db67.jpg",
     "static/media/printer.png": "/static/media/printer.ed6f2b35145e4079903d.png",
     "index.html": "/index.html",
-    "main.46c89eb1.css.map": "/static/css/main.46c89eb1.css.map",
-    "main.e5842e76.js.map": "/static/js/main.e5842e76.js.map"
+    "main.8be18fbe.css.map": "/static/css/main.8be18fbe.css.map",
+    "main.50443eda.js.map": "/static/js/main.50443eda.js.map"
   },
   "entrypoints": [
-    "static/css/main.46c89eb1.css",
-    "static/js/main.e5842e76.js"
+    "static/css/main.8be18fbe.css",
+    "static/js/main.50443eda.js"
   ]
 }
